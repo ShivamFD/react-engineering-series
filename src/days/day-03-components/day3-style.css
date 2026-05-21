@@ -1,0 +1,56 @@
+.practice-container-day3 {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .task-day3 {
+    background: #f8f9fa;
+    padding: 24px;
+    margin-bottom: 28px;
+    border-radius: 14px;
+    border-left: 6px solid #6b21a8;
+  }
+  
+  .hero-section {
+    background: linear-gradient(135deg, #1e1b4b, #312e81);
+    color: white;
+    padding: 60px 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 30px 0;
+  }
+  
+  .hero-section h1 {
+    font-size: 2.8rem;
+    margin-bottom: 12px;
+  }
+  
+  .button {
+    background: #6b21a8;
+    color: white;
+    border: none;
+    padding: 14px 32px;
+    font-size: 1.1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .button:hover {
+    background: #7e22ce;
+    transform: translateY(-2px);
+  }
+  
+  .complete-btn {
+    display: block;
+    margin: 40px auto;
+    background: #6b21a8;
+    color: white;
+    padding: 16px 40px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  }
