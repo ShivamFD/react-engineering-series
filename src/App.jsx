@@ -3,6 +3,7 @@
 import Day1Practice from './days/day-01-react-introduction/Practice';
 import Day2Practice from './days/day-02-jsx-and-babel/Practice';
 import Day3Practice from './days/day-03-components/Practice';
+import Day4Practice from './days/day-04-props/Practice';
 import './index.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Day1Practice />
       <Day2Practice />
       <Day3Practice />
+      <Day4Practice />
 
     </div>
   );
